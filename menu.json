@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "buttermilk pancrakes",
+        "category": "breakfast",
+        "price": 15.99,
+        "img": "./FoodImage/Food1.jpg",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    },
+    {
+        "id": 2,
+        "title": "dinner double",
+        "category": "lunch",
+        "price": 13.99,
+        "img": "./FoodImage/food2.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    },
+    {
+        "id": 3,
+        "title": "Rice and Chicken",
+        "category": "dinner",
+        "price": 23.33,
+        "img": "./FoodImage/food3.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+    },
+    {
+        "id": 4,
+        "title": "noodles",
+        "category": "breakfast",
+        "price": 22.33,
+        "img": "./FoodImage/food4.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    },
+    {
+        "id": 5,
+        "title": "Shrawberries",
+        "category": "breakfast",
+        "price": 10.22,
+        "img": "./FoodImage/fppd5.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    },
+    {
+        "id": 6,
+        "title": "Turkey and Rice",
+        "category": "dinner",
+        "price": 50.55,
+        "img": "./FoodImage/food6.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+    },
+    {
+        "id": 7,
+        "title": "Turkey",
+        "category": "lunch",
+        "price": 90.77,
+        "img": "./FoodImage/food8.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    },
+    {
+        "id": 8,
+        "title": "apostle ebenezer",
+        "category": "breakfast",
+        "price": 60.44,
+        "img": "./FoodImage/food9.jpg",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+    },
+    {
+        "id": 9,
+        "title": "emmy",
+        "category": "lunch",
+        "price": 60.55,
+        "img": "./FoodImage/food10.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+    },
+    {
+        "id": 10,
+        "title": "new donness",
+        "category": "stacks",
+        "price": 22.55,
+        "img": "./images/food5.jpg",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    }, 
+    {
+        "id": 11,
+        "title": "In between food",
+        "category": "brunch",
+        "price": 22.55,
+        "img": "./FoodImage/food11.webp",
+        "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    }
+]
